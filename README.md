@@ -9,7 +9,7 @@
 >   (:
 ```
 
-<img src="<div class="tenor-gif-embed" data-postid="17602951" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/hisoka-hunter-x-hunter-hxh-anime-aura-gif-17602951">Hisoka Hunter X Hunter GIF</a>from <a href="https://tenor.com/search/hisoka-gifs">Hisoka GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" 
+<img src="https://i.pinimg.com/564x/92/6c/66/926c66f9ed3a7358f5042683d8612910.jpg" 
      align="left" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="250">
 
 ```py
@@ -18,7 +18,7 @@ Q55@github
 
        OS  :  Arch Linux
       CPU  :  I7
-    Infos  :  16yo English developer!
+    Infos  :  19yo English developer!
 Languages  :  Python, JS, C++
 ```
 <hr>
