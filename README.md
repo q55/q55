@@ -11,6 +11,7 @@
 
 <img src="https://i.pinimg.com/564x/92/6c/66/926c66f9ed3a7358f5042683d8612910.jpg" 
      align="left" alt="nanosuckysuckyonetimeonetime.php.png" >
+     
 
 ```py
 Q55@github
@@ -22,3 +23,5 @@ Q55@github
 Languages  :  Python, JS, C++
 ```
 <hr>
+<img src="(https://i.pinimg.com/originals/d4/44/68/d444682f48c76ebcdaad97fad5383f2c.gif)" 
+     align="right" alt="nanosuckysuckyonetimeonetime.php.png" >
