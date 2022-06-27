@@ -23,5 +23,5 @@ Q55@github
 Languages  :  Python, JS, C++
 ```
 <hr>
-<img src="(https://i.pinimg.com/originals/d4/44/68/d444682f48c76ebcdaad97fad5383f2c.gif)" 
+<img src="https://i.pinimg.com/originals/d4/44/68/d444682f48c76ebcdaad97fad5383f2c.gif" 
      align="right" alt="nanosuckysuckyonetimeonetime.php.png" >
