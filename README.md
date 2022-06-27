@@ -24,4 +24,4 @@ Languages  :  Python, JS, C++
 ```
 <hr>
 <img src="https://i.pinimg.com/originals/d4/44/68/d444682f48c76ebcdaad97fad5383f2c.gif" 
-     align="right" alt="nanosuckysuckyonetimeonetime.php.png" width="350">
+     align="right" alt="nanosuckysuckyonetimeonetime.php.png" width="390">
