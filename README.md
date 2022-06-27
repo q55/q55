@@ -10,7 +10,7 @@
 ```
 
 <img src="https://i.pinimg.com/564x/92/6c/66/926c66f9ed3a7358f5042683d8612910.jpg" 
-     align="left" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="250">
+     align="left" alt="nanosuckysuckyonetimeonetime.php.png" >
 
 ```py
 Q55@github
