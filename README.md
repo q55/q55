@@ -9,7 +9,7 @@
 >   (:
 ```
 
-<img src="(https://tenor.com/view/hisoka-hunter-x-hunter-hxh-anime-aura-gif-17602951)" 
+<img src="<div class="tenor-gif-embed" data-postid="17602951" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/hisoka-hunter-x-hunter-hxh-anime-aura-gif-17602951">Hisoka Hunter X Hunter GIF</a>from <a href="https://tenor.com/search/hisoka-gifs">Hisoka GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" 
      align="left" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="250">
 
 ```py
