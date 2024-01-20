@@ -21,7 +21,7 @@ Q55@github
        OS  :  Arch Linux
       CPU  :  I7
     Infos  :  20 yo English developer!
-Languages  :  Python, JS, C++
+Languages  :  Python, JS, java
 ```
 <hr>
 <img src="https://i.pinimg.com/originals/d4/44/68/d444682f48c76ebcdaad97fad5383f2c.gif" 
