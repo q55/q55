@@ -1,7 +1,6 @@
 <p align="center">
-## Hi there 👋
-  <p align="center">
-  </p>
+  ## Hi there 👋
+</p>
 
 
 ```bash
