@@ -14,7 +14,7 @@
 <img src=https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/mohammed-al-sahli-0969b1234/" target="_blank">
+<a href="https://www.linkedin.com/in/mohammed-al-sahli-q55" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
