@@ -19,7 +19,7 @@
 </a>
 
 ## About Me:
-I am a Software Engineer from KFUPM with experience in **Python**, **Java**, **JavaScript**, and **R**, and expertise in **Web Development** using **HTML**, **CSS**, and **React**. I have worked on **data science** projects using **Pandas**, **NumPy**, and **Scikit-learn**, and have a strong interest in **AI & Machine Learning**, **Cybersecurity**, and **IoT** projects with platforms like **Arduino** and **Raspberry Pi**.
+I am a Software Engineer from KFUPM with experience in **Python**, **Java**, **JavaScript**, and **R**, and expertise in **Web Development** using **HTML**, **CSS**, and **React**. I have worked on **data science** projects using **Pandas**, **NumPy**, and **Scikit-learn**, and have a strong interest in **AI & Machine Learning**, **Cybersecurity**, and **IoT** projects with platforms like **Arduino** and **ESP32**.
 
 ## :computer: Tech Stacks:
 
@@ -39,11 +39,11 @@ I am a Software Engineer from KFUPM with experience in **Python**, **Java**, **J
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
 
 ### Cybersecurity & Networking:
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white) 
 
 ### Version Control & Collaboration:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### IoT & Embedded Systems:
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 
