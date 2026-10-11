@@ -15,7 +15,7 @@
 </a>
 
 ## About Me:
-I am a **Software Engineering graduate from KFUPM** with experience in **Python**, **Java**, and **JavaScript**, building backend APIs with **FastAPI** and web apps with **React**. I have worked on **data science** projects using **Pandas**, **NumPy**, and **Scikit-learn**, and have a strong interest in **AI & Machine Learning**, **Cybersecurity**, and **IoT** projects with platforms like **Arduino** and **ESP32**.
+A **Software Engineering graduate from KFUPM** with experience in **Python**, **Java**, and **JavaScript**, building backend APIs with **FastAPI** and web apps with **React**. I have worked on **data science** projects using **Pandas**, **NumPy**, and **Scikit-learn**, and have a strong interest in **AI & Machine Learning**, **Cybersecurity**, and **IoT** projects with platforms like **Arduino** and **ESP32**.
 
 ## 🚀 Featured Projects:
 - **[ESP32 Radar System](https://github.com/q55/ESP32-Radar-System)** — Real-time radar on ESP32 with a ToF sensor and servo sweep, built on 6 concurrent FreeRTOS tasks *(C++, FreeRTOS)*
