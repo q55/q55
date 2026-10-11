@@ -2,10 +2,6 @@
 
 ## 🌐 Socials:
 
-<a href="https://x.com/swe_mohamd" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
 <a href="https://github.com/q55" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -19,15 +15,25 @@
 </a>
 
 ## About Me:
-I am a Software Engineer from KFUPM with experience in **Python**, **Java**, **JavaScript**, and **R**, and expertise in **Web Development** using **HTML**, **CSS**, and **React**. I have worked on **data science** projects using **Pandas**, **NumPy**, and **Scikit-learn**, and have a strong interest in **AI & Machine Learning**, **Cybersecurity**, and **IoT** projects with platforms like **Arduino** and **ESP32**.
+I am a **Software Engineering graduate from KFUPM** with experience in **Python**, **Java**, and **JavaScript**, building backend APIs with **FastAPI** and web apps with **React**. I have worked on **data science** projects using **Pandas**, **NumPy**, and **Scikit-learn**, and have a strong interest in **AI & Machine Learning**, **Cybersecurity**, and **IoT** projects with platforms like **Arduino** and **ESP32**.
+
+## 🚀 Featured Projects:
+- **[ESP32 Radar System](https://github.com/q55/ESP32-Radar-System)** — Real-time radar on ESP32 with a ToF sensor and servo sweep, built on 6 concurrent FreeRTOS tasks *(C++, FreeRTOS)*
+- **[KFUPM Football Tournament System](https://github.com/q55/KFUPM-Football-Tournament-Website)** — Full-stack app for managing inter-college tournaments *(React, Node.js, Express, MySQL)*
+- **[Air Quality Prediction](https://github.com/q55/AirQuality-Prediction-ML)** — Classifies AQI levels using KNN, SVM, and CNN *(Python, Scikit-learn)*
+- **[Laundry POS System](https://github.com/q55/Laundry-POS-System)** — Arabic point-of-sale system built for a real laundry business *(JavaScript, HTML)*
+- **[ESP32 Smart Traffic Light](https://github.com/q55/ESP32-Smart-Traffic-Light-System)** — Traffic controller with dynamic lane timing and a pedestrian cycle *(C++, ESP32)*
 
 ## :computer: Tech Stacks:
 
 ### Programming:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Web Development:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Backend & APIs:
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### IoT & Embedded Systems:
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
