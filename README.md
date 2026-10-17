@@ -1,6 +1,6 @@
 # Hi, I'm Mohammed Alsahli
 
-## 🌐 Socials:
+## Socials:
 
 <a href="https://github.com/q55" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -17,7 +17,7 @@
 ## About Me:
 A **Software Engineering graduate from KFUPM** with experience in **Python**, **Java**, and **JavaScript**, building backend APIs with **FastAPI** and web apps with **React**. I have worked on **data science** projects using **Pandas**, **NumPy**, and **Scikit-learn**, and have a strong interest in **AI & Machine Learning**, **Cybersecurity**, and **IoT** projects with platforms like **Arduino** and **ESP32**.
 
-## 🚀 Featured Projects:
+## Featured Projects:
 - **[ESP32 Radar System](https://github.com/q55/ESP32-Radar-System)** — Real-time radar on ESP32 with a ToF sensor and servo sweep, built on 6 concurrent FreeRTOS tasks *(C++, FreeRTOS)*
 - **[KFUPM Football Tournament System](https://github.com/q55/KFUPM-Football-Tournament-Website)** — Full-stack app for managing inter-college tournaments *(React, Node.js, Express, MySQL)*
 - **[Air Quality Prediction](https://github.com/q55/AirQuality-Prediction-ML)** — Classifies AQI levels using KNN, SVM, and CNN *(Python, Scikit-learn)*
