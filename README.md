@@ -1,21 +1,14 @@
-# Hi, I'm Mohammed Alsahli 👋
+# Hi, I'm Mohammed Alsahli
 
 <a href="mailto:mr.mohammed.alsahli@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 <a href="https://www.linkedin.com/in/mohammed-al-sahli-q55" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 
-**Software Engineering graduate from KFUPM** · Former Software Engineer Intern @ **Baker Hughes** (Houston, USA)
+Software Engineering graduate from KFUPM and former Software Engineer Intern at Baker Hughes (Houston, USA).
+I build backend services with Python and FastAPI, web apps with React, and embedded systems with ESP32 and FreeRTOS.
 
-I build backend services with **Python & FastAPI**, web apps with **React**, and embedded systems with **ESP32 & FreeRTOS**.
+Open to software engineering roles in Saudi Arabia.
 
-📫 Open to software engineering roles in Saudi Arabia.
-
-## 🚀 Featured Projects
-- **[ESP32 Radar System](https://github.com/q55/ESP32-Radar-System)** — Real-time radar on ESP32 with a ToF sensor and servo sweep, built on 6 concurrent FreeRTOS tasks *(C++, FreeRTOS)*
-- **[Air Quality Prediction](https://github.com/q55/AirQuality-Prediction-ML)** — Classifies AQI levels using KNN, SVM, and CNN *(Python, Scikit-learn)*
-- **[Laundry POS System](https://github.com/q55/Laundry-POS-System)** — Arabic point-of-sale system built for a real laundry business *(JavaScript, HTML, CSS)*
-- **[ESP32 Smart Traffic Light](https://github.com/q55/ESP32-Smart-Traffic-Light-System)** — Traffic controller with dynamic lane timing and a pedestrian cycle *(C++, ESP32)*
-
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages**<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
