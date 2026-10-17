@@ -24,7 +24,7 @@ A **Software Engineering graduate from KFUPM** with experience in **Python**, **
 - **[Laundry POS System](https://github.com/q55/Laundry-POS-System)** — Arabic point-of-sale system built for a real laundry business *(JavaScript, HTML)*
 - **[ESP32 Smart Traffic Light](https://github.com/q55/ESP32-Smart-Traffic-Light-System)** — Traffic controller with dynamic lane timing and a pedestrian cycle *(C++, ESP32)*
 
-## :computer: Tech Stacks:
+## Tech Stacks:
 
 ### Programming:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
