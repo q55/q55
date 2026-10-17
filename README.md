@@ -11,7 +11,7 @@ I build backend services with **Python & FastAPI**, web apps with **React**, and
 
 ## 🚀 Featured Projects
 - **[ESP32 Radar System](https://github.com/q55/ESP32-Radar-System)** — Real-time radar on ESP32 with a ToF sensor and servo sweep, built on 6 concurrent FreeRTOS tasks *(C++, FreeRTOS)*
-- **[Air Quality Prediction](https://github.com/q55/AirQuality-Prediction-ML)** — Classifies AQI levels using KNN, SVM, and CNN *(Python, Scikit-learn, TensorFlow)*
+- **[Air Quality Prediction](https://github.com/q55/AirQuality-Prediction-ML)** — Classifies AQI levels using KNN, SVM, and CNN *(Python, Scikit-learn)*
 - **[Laundry POS System](https://github.com/q55/Laundry-POS-System)** — Arabic point-of-sale system built for a real laundry business *(JavaScript, HTML, CSS)*
 - **[ESP32 Smart Traffic Light](https://github.com/q55/ESP32-Smart-Traffic-Light-System)** — Traffic controller with dynamic lane timing and a pedestrian cycle *(C++, ESP32)*
 
@@ -23,8 +23,8 @@ I build backend services with **Python & FastAPI**, web apps with **React**, and
 **Backend & Web**<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**AI & Data**<br>
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+**Data & ML**<br>
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
 **IoT & Embedded**<br>
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white) ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-2E8B57?style=for-the-badge&logoColor=white)
