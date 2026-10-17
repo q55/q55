@@ -2,9 +2,6 @@
 
 ## Socials:
 
-<a href="https://github.com/q55" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 
 <a href="mailto:mr.mohammed.alsahli@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=email style="margin-bottom: 5px;" />
